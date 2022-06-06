@@ -1,0 +1,2 @@
+# edico-web
+GitHub Pages

@@ -426,7 +426,8 @@
               "padding-bottom": "0",
               "color": "#626262",
               "font-weight": "600",
-              "margin-bottom": "6px"
+              "margin-bottom": "6px",
+              "text-align": "left"
             },
             ".right": {
               "padding-top": "20px",
